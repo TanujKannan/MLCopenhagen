@@ -13,3 +13,5 @@ Each model has a feature importance plot, to depict the biomarker species for a 
 
 Each .py file has the code for each model trained on one cohort of patients and then tested for robustness.
 
+Best Performance was by the Random Forest Model, with an average accuracy of 77.2%
+
